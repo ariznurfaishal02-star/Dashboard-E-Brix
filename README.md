@@ -43,6 +43,6 @@ Proyek ini menggunakan metode **Ordinary Kriging** sebagai mesin prediksinya. Lo
 ---
 
 ## 👨‍💻 Penulis
-**Ariz Nur Faishal** *D3 Teknologi Telekomunikasi, Universitas Telkom (Angkatan 2023)* *Data Science & Machine Learning Intern at STAS-RG / PT PG Rajawali II*
+**Ariz Nur Faishal**
 
 ---
